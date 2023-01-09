@@ -1,0 +1,12 @@
+{
+  "name": "graphql-onboarding",
+  "version": "1.0.0",
+  "description": "For beginning of graphql",
+  "main": "index.js",
+  "repository": "git@github.com:jooocy/graphql-onboarding.git",
+  "author": "Jonghyun-Joo <jojo@monymony.co>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
