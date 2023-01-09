@@ -7,6 +7,7 @@
   "author": "Jonghyun-Joo <jojo@monymony.co>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2"
   }
 }
