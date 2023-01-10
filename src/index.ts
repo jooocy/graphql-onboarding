@@ -29,5 +29,5 @@ app.use(
 
 app.listen(port, () => {
   console.log(`⚡️[server]: Server is running at http://localhost:${port}`);
-  console.log(`Now browse to localhost:${port}/graphql`);
+  console.log(`Now browse to http://localhost:${port}/graphql`);
 });
